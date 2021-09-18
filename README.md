@@ -1,4 +1,4 @@
-# [Soft UI Dashboard Material-UI](http://demos.creative-tim.com/soft-ui-dashboard-material-ui/#/dashboard?ref=readme-sudmui) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/soft-ui-dashboard-material-ui&text=Check%20Soft%20UI%20Dashboard%20material-ui%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#react%20https://www.creative-tim.com/product/soft-ui-dashboard-material-ui)
+<!-- # [Soft UI Dashboard Material-UI](http://demos.creative-tim.com/soft-ui-dashboard-material-ui/#/dashboard?ref=readme-sudmui) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/soft-ui-dashboard-material-ui&text=Check%20Soft%20UI%20Dashboard%20material-ui%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#react%20https://www.creative-tim.com/product/soft-ui-dashboard-material-ui)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/soft-ui-dashboard-material-ui.svg)](https://github.com/creativetimofficial/soft-ui-dashboard-material-ui/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-dashboard-material-ui.svg)](https://github.com/creativetimofficial/soft-ui-dashboard-material-ui/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -209,4 +209,4 @@ Dribbble: <https://dribbble.com/creativetim>
 
 Google+: <https://plus.google.com/+CreativetimPage>
 
-Instagram: <https://instagram.com/creativetimofficial>
+Instagram: <https://instagram.com/creativetimofficial> -->
